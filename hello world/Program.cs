@@ -12,6 +12,7 @@ namespace CSharp
         {
             int num;
             char choice;
+
             do
             {
                 Console.WriteLine("enter the number");
